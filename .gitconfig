@@ -1,0 +1,6 @@
+[core]
+	longpaths = true
+[alias]
+	majonez = push
+	ll = log --oneline
+	se = !git rev-list --all | xargs git grep -F
