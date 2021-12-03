@@ -2,6 +2,8 @@
 
 Set of different config files
 
-- [Windows Terminal](terminal/settings.json)
-- [Oh My Posh](powershell/oh-my-posh.json)
-- [Powershell profile](powershell/Microsoft.PowerShell_profile.ps1)
+| What for | Config |
+| --- | --- |
+| [Windows Terminal](https://github.com/microsoft/terminal) | [Go to file](terminal/settings.json) |
+| [Oh My Posh](https://ohmyposh.dev/) | [Go to file](powershell/oh-my-posh.json) |
+| Powershell Profile | [Go to file](powershell/Microsoft.PowerShell_profile.ps1) |
