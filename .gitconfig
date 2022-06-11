@@ -2,5 +2,8 @@
 	longpaths = true
 [alias]
 	majonez = push
+	c = commit
+	co = checkout
+	cp = cherry-pick
 	ll = log --oneline
 	se = !git rev-list --all | xargs git grep -F
