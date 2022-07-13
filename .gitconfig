@@ -10,3 +10,5 @@
 	se = !git rev-list --all | xargs git grep -F
 [diff]
 	colorMoved = dimmed-zebra
+[push]
+	autoSetupRemote = true
