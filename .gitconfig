@@ -1,5 +1,6 @@
 [core]
 	autocrlf = input
+	eol = lf
 	longpaths = true
 [alias]
 	majonez = push
