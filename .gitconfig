@@ -1,5 +1,5 @@
 [core]
-	autocrlf = input
+	autocrlf = false
 	eol = lf
 	longpaths = true
 [alias]
