@@ -10,6 +10,7 @@
 	c = commit
 	co = checkout
 	cp = cherry-pick
+	ds = diff --staged
 	ll = log --oneline
 	se = !git rev-list --all | xargs git grep -F
 [diff]
