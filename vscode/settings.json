@@ -1,17 +1,33 @@
 {
-    "workbench.colorTheme": "Material Deep Ocean",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.tree.indent": 12,
-    "workbench.tree.renderIndentGuides": "always",
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "editor.rulers": [
-        120
-    ],
-    "editor.tabSize": 2,
-    "security.workspace.trust.untrustedFiles": "open",
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit"
     },
-    "go.toolsManagement.autoUpdate": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.fontSize": 18,
+    "editor.rulers": [
+        120
+    ],
+    "eslint.enable": true,
+    "editor.tabSize": 2,
+    "eslint.codeActionsOnSave.mode": "all",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "vue"
+    ],
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
     "files.eol": "\n",
+    "go.toolsManagement.autoUpdate": true,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.indent": 12,
+    "workbench.tree.renderIndentGuides": "always",
 }
