@@ -1,13 +1,13 @@
 [
     {
-      "key": "ctrl+/",
-      "command": "runCommands",
-      "args": {
-        "commands": [
-          "editor.action.commentLine",
-          "cursorDown"
-        ],
-      },
-      "when": "editorTextFocus && !editorReadonly"
+        "key": "ctrl+/",
+        "command": "runCommands",
+        "args": {
+            "commands": [
+                "editor.action.commentLine",
+                "cursorDown"
+            ],
+        },
+        "when": "editorTextFocus"
     }
-  ]
+]
