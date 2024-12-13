@@ -8,6 +8,6 @@
           "cursorDown"
         ],
       },
-      "when": "editorTextFocus"
+      "when": "editorTextFocus && !editorReadonly"
     }
   ]
