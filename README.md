@@ -10,3 +10,4 @@ Set of different config files
 | Powershell Profile | [Go to file](powershell/Microsoft.PowerShell_profile.ps1) |
 | [Git](https://git-scm.com/) | [Go to file](.gitconfig) |
 | [VSCode](https://code.visualstudio.com/) | [Go to directory](vscode) |
+| [Vim](https://www.vim.org/) | [Go to file)[.vimrc] |
