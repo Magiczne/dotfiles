@@ -4,6 +4,7 @@ Set of different config files
 
 | What for | Config |
 | --- | --- |
+| [K9s](https://k9scli.io/) | [Go to directory](k9s) |
 | [Lazydocker](https://github.com/jesseduffield/lazydocker) | [Go to file](lazydocker/config.yml) |
 | [Windows Terminal](https://github.com/microsoft/terminal) | [Go to file](terminal/settings.json) |
 | [Oh My Posh](https://ohmyposh.dev/) | [Go to file](powershell/oh-my-posh.json) |
