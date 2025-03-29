@@ -14,9 +14,9 @@
 [blame]
 	ignoreRevsFile = .git-blame-ignore-revs
 [branch]
-        sort = -committerdate
+	sort = -committerdate
 [column]
-        ui = auto
+	ui = auto
 [core]
 	autocrlf = input
 	eol = lf
@@ -26,8 +26,8 @@
 [diff]
 	colorMoved = dimmed-zebra
 [fetch]
-        writeCommitGraph = true
+	writeCommitGraph = true
 [push]
 	autoSetupRemote = true
 [rerere]
-        enabled = true
+	enabled = true
