@@ -104,3 +104,20 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# ==== CUSTOM Tweaks ====
+# NVM
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+# Laravel sail
+alias sail='[ -f sail ] && sh sail || sh ./vendor/bin/sail'
+
+# Docker
+alias dcu='docker compose up -d'
+alias dcs='docker compose stop'
+alias dcd='docker compose down'
+
+# Various utilities
+alias lad='lazydocker'
+alias g='git'
