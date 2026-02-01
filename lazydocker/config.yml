@@ -1,3 +1,8 @@
+# yaml-language-server: $schema=https://json.schemastore.org/lazydocker.json
 gui:
+    border: 'single'
+    language: 'en'
     returnImmediately: true
     showAllContainers: true
+    showBottomLine: true
+    sidePanelWidth: 0.3
