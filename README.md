@@ -12,3 +12,4 @@ Set of different config files
 | [Git](https://git-scm.com/) | [Go to file](.gitconfig) |
 | [VSCode](https://code.visualstudio.com/) | [Go to directory](vscode) |
 | [Vim](https://www.vim.org/) | [Go to file](.vimrc) |
+| [OpenCode](https://opencode.ai/) | [Go to directory](opencode) |
