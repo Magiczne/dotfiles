@@ -1,0 +1,5 @@
+[wsl2]
+guiApplications=true
+memory=16GB
+networkingMode=mirrored
+swap=8GB

@@ -13,3 +13,4 @@ Set of different config files
 | [VSCode](https://code.visualstudio.com/) | [Go to directory](vscode) |
 | [Vim](https://www.vim.org/) | [Go to file](.vimrc) |
 | [OpenCode](https://opencode.ai/) | [Go to directory](opencode) |
+| [WSL2](https://learn.microsoft.com/en-us/windows/wsl/wsl-config#wslconfig) | [Go to directory](wsl) |
