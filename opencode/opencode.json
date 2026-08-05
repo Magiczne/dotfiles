@@ -6,10 +6,9 @@
     "lsp": true,
     "mcp": {
         "chrome-devtools": {
-            "command": "npx",
-            "args": [
-                "chrome-devtools-mcp@latest"
-            ]
+            "type": "local",
+            "args": ["npx", "-y", "chrome-devtools-mcp@latest"],
+            "enabled": true
         },
         "context7": {
             "type": "local",
