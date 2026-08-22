@@ -72,7 +72,7 @@ ZSH_THEME="agnoster"
 # Add wisely, as too many plugins slow down shell startup.
 # git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 # git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-plugins=(aws docker docker-compose git kubectl laravel npm nvm screen sudo ubuntu yarn zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(aws bun docker docker-compose fluxcd git k9s kubectl laravel npm nvm screen sudo symfony ubuntu yarn zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
