@@ -1,0 +1,19 @@
+{
+  "colorScheme": "tokyo night",
+  "enableTerminalSandbox": true,
+  "model": "Gemini 3.8 Flash (High)",
+  "permissions": {
+    "allow": [
+      "command(echo)",
+      "command(find)",
+      "command(git diff)",
+      "command(git grep)",
+      "command(git log)",
+      "command(git status)",
+      "command(grep)",
+      "command(ls)"
+    ]
+  },
+  "runningLightSpeed": "fast",
+  "trustedWorkspaces": []
+}
