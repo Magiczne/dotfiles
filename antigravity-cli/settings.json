@@ -4,6 +4,7 @@
   "model": "Gemini 3.8 Flash (High)",
   "permissions": {
     "allow": [
+      "command(cat)",
       "command(echo)",
       "command(find)",
       "command(git diff)",
