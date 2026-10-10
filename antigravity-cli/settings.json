@@ -12,6 +12,7 @@
       "command(git log)",
       "command(git status)",
       "command(grep)",
+      "command(head)",
       "command(ls)"
     ]
   },
