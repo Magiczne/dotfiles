@@ -10,6 +10,7 @@
       "command(git diff)",
       "command(git grep)",
       "command(git log)",
+      "command(git show)",
       "command(git status)",
       "command(grep)",
       "command(head)",
