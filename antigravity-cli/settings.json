@@ -1,5 +1,6 @@
 {
   "colorScheme": "tokyo night",
+  "enableTelemetry": false,
   "enableTerminalSandbox": true,
   "model": "Gemini 3.8 Flash (High)",
   "permissions": {
@@ -18,5 +19,6 @@
     ]
   },
   "runningLightSpeed": "fast",
+  "showFeedbackSurvey": false,
   "trustedWorkspaces": []
 }
