@@ -25,5 +25,5 @@
       }
     }
   },
-  "plugins": ["@dietrichgebert/ponytail"]
+  "plugins": ["@dietrichgebert/ponytail", "opencode-antigravity-auth"]
 }
